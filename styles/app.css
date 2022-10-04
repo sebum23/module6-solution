@@ -1,0 +1,15 @@
+.green {
+  color: green;
+}
+
+.red {
+  color: red;
+}
+
+.green_input {
+  border: 1px solid green;
+}
+
+.red_input {
+  border: 1px solid red;
+}
